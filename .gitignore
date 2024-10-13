@@ -26,3 +26,4 @@ yarn-error.log*
 "src/Server/utils/.env" 
 ".env" 
 "src/Server/utils/.env" 
+"src/Server/utils/.env" 
